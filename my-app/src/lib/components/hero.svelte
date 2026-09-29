@@ -1,7 +1,27 @@
 <script>
+    import { onMount } from 'svelte';
+
+    let opacity = 1;
+
+    onMount(() => {
+        function veranderOpacity() {
+            const fadeStart = 50;
+            const fadeLengte = 150;
+
+            opacity = Math.max(
+                0,
+                1 - (window.scrollY - fadeStart) / fadeLengte
+            );
+        }
+
+        window.addEventListener('scroll', veranderOpacity);
+        veranderOpacity();
+
+        return () => window.removeEventListener('scroll', veranderOpacity);
+    });
 </script>
 
-<div class="grid grid-cols-4 bg-[#424242] text-white py-6 px-10 items-center">
+<div class="sticky top-0 z-20 grid grid-cols-4 bg-[#424242] text-white py-6 px-10 items-center" style="opacity: {opacity};">
     <div class="flex items-center col-span-1" id="email">
         <p class="absolute justify-center ">infoyoursite@mail.com</p>
     </div>

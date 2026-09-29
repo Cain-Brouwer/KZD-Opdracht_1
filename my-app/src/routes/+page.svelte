@@ -1,8 +1,8 @@
 <script>
-    import Hero from '$lib/Components/hero.svelte';
-    import Header from '$lib/Components/header.svelte';
+    import Hero from '$lib/components/hero.svelte';
+    import Header from '$lib/components/header.svelte';
     // @ts-ignore
-    import Footer from '$lib/Components/footer.svelte';
+    import Footer from '$lib/components/footer.svelte';
 </script>
 
 <div class="min-h-screen flex flex-col">
