@@ -1,15 +1,15 @@
 <script>
 </script>
 
-<div class="grid grid-cols-4 bg-[#424242] text-white p-4">
-    <div class="col-span-1" id="email">
+<div class="grid grid-cols-4 bg-[#424242] text-white py-6 px-10 items-center">
+    <div class="flex items-center col-span-1" id="email">
         <p class="absolute justify-center ">infoyoursite@mail.com</p>
     </div>
-    <div class="col-span-1" id="telefoonnummer">
-        <p class="justify-center">+31 6 12345678</p>
+    <div class="flex items-center col-span-1" id="telefoonnummer">
+        <p>+31 6 12345678</p>
     </div>
-    <div class="col-span-1">
-        <ol>
+    <div class="flex items-center col-span-1">
+        <ol class="m-0">
             <li class="inline-block" id="facebook">
                 <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"><img src="/facebook.png" alt="facebook"></a>
             </li>
@@ -21,8 +21,8 @@
             </li>
         </ol>
     </div>
-    <div class="col-span-1">
-        <button class="absolute bg-blue-600 hover:bg-cyan-700 text-white font-bold py-2 px-4 rounded-full right-10 mt-2">
+    <div class="col-span-1 flex items-center justify-end">
+        <button class="bg-blue-600 hover:bg-cyan-700 text-white font-bold py-2 px-4 rounded-full mr-10">
             <a href="/quote" target="_blank" rel="noopener noreferrer">Get a Quote >></a>
         </button>
     </div>
