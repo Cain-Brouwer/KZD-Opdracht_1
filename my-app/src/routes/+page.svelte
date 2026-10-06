@@ -4,13 +4,16 @@
     import Header from '$lib/components/header/Header.svelte';
     // @ts-ignore
     import Footer from '$lib/components/footer/Footer.svelte';
+    import BgImage from "$lib/components/content/BgImage.svelte";
 </script>
 
 <div class="min-h-screen flex flex-col">
     <Hero></Hero>
     <Header></Header>
-    <div id="content" class="flex-1 p-4 bg-[url('/Computer.jpg')] bg-cover bg-center min-h-screen"></div>
-    <div class="mt-300"></div>
+    <BgImage></BgImage>
+    <div class="flex">
+        <img src="/corporate.jpg" alt="" class="w-250 h-auto"/>
+    </div>
     <Footer></Footer>
 </div>
 
