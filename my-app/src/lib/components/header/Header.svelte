@@ -7,8 +7,8 @@
 
     let headerClasses = $derived(
         isScrolled
-            ? 'sticky top-0 z-10 flex items-center justify-between gap-6 bg-white px-8 pt-4 pb-4 text-black transition-all duration-300 mx-[200px]'
-            : 'sticky top-0 z-10 flex items-center justify-between gap-12 bg-white px-16 pt-9 pb-9 text-black transition-all duration-300 mx-auto w-full'
+            ? 'sticky top-0 z-20 flex items-center justify-between gap-3 bg-white px-4 pt-3 pb-3 text-black transition-all duration-300 lg:gap-6 lg:px-8 lg:pt-4 lg:pb-4 lg:mx-[200px]'
+            : 'sticky top-0 z-20 flex items-center justify-between gap-6 bg-white px-4 pt-5 pb-5 text-black transition-all duration-300 mx-auto w-full lg:gap-12 lg:px-16 lg:pt-9 lg:pb-9'
     );
 
     function handleScroll() {
