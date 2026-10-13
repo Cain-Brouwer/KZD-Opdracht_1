@@ -1,0 +1,37 @@
+<mxfile host="Electron">
+  <diagram id="services" name="Our services">
+    <mxGraphModel dx="1414" dy="926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1366" pageHeight="768" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="logo" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=15;align=center;verticalAlign=middle;" value="Logo" vertex="1">
+          <mxGeometry height="46" width="110" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nav" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=15;align=center;verticalAlign=middle;" value="Nav Links" vertex="1">
+          <mxGeometry height="30" width="566" x="780" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="heading" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=15;align=center;verticalAlign=middle;" value="Our services" vertex="1">
+          <mxGeometry height="70" width="1326" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=12;align=center;verticalAlign=middle;" value="Dienst 1&#xa;&#xa;Icoon&#xa;&#xa;Titel&#xa;&#xa;Omschrijving&#xa;&#xa;Meer info »" vertex="1">
+          <mxGeometry height="250" width="315" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=12;align=center;verticalAlign=middle;" value="Dienst 2&#xa;&#xa;Icoon&#xa;&#xa;Titel&#xa;&#xa;Omschrijving&#xa;&#xa;Meer info »" vertex="1">
+          <mxGeometry height="250" width="315" x="357" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=12;align=center;verticalAlign=middle;" value="Dienst 3&#xa;&#xa;Icoon&#xa;&#xa;Titel&#xa;&#xa;Omschrijving&#xa;&#xa;Meer info »" vertex="1">
+          <mxGeometry height="250" width="315" x="694" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=12;align=center;verticalAlign=middle;" value="Dienst 4&#xa;&#xa;Icoon&#xa;&#xa;Titel&#xa;&#xa;Omschrijving&#xa;&#xa;Meer info »" vertex="1">
+          <mxGeometry height="250" width="315" x="1031" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cta" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=13;align=center;verticalAlign=middle;" value="Knop&#xa;Bekijk alle diensten »" vertex="1">
+          <mxGeometry height="48" width="250" x="558" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="footer" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;strokeWidth=1;fontColor=#FFFFFF;fontSize=14;align=center;verticalAlign=middle;" value="Footer&#xa;Link kolommen - Socials - Copyright" vertex="1">
+          <mxGeometry height="110" width="1326" x="20" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
