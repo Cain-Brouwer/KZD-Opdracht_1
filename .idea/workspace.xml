@@ -1,40 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AirChatToolWindow" selected="eza0kg1ezn6o921sxzdz7cwtw">
-    <tab path="4/junie/ba4fcd91/eza0kg1ezn6o921sxzdz7cwtw" version="20" tabKey="eza0kg1ezn6o921sxzdz7cwtw" projectHash="ba4fcd91" sessionWorkspaceId="$PROJECT_DIR$" projectDirectory="$PROJECT_DIR$" threadIdentity="junie:acp:30dd0050" launchTargetId="acp.v1.6163702e72656769737472792e6a756e6965" threadId="acp:30dd0050" threadTitle="Zoek documentatie voor SvelteKit en Vite Plus" threadActivity="PROCESSING">
-      <launchProfile name="Junie" agentId="junie" launchMode="DEFAULT" launchTargetId="acp.v1.6163702e72656769737472792e6a756e6965" interactionSurfaceId="native" modelId="v1:15:proxy:ingrazzio:junie-lite" modelDisplayName="Lite" reasoningEffort="LOW" sessionModeId="brave-auto" />
-    </tab>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39926297-7140-479b-94af-a4347fc7b34b" name="Changes" comment="initialize project with Vite Plus setup, TypeScript configuration, and basic components">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.npmrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.prettierignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/eslint.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/prettier.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/app.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/lib/assets/favicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/routes/+layout.svelte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/routes/+page.svelte" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/routes/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/static/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/vite.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdracht_2" beforeDir="false" />
+    <list default="true" id="39926297-7140-479b-94af-a4347fc7b34b" name="Changes" comment="Add configuration files for project setup; update package.json scripts and dependencies">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,61 +38,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7141915907065992" />
-      <entry key="MS500" value="4.73407954049202" />
-      <entry key="S2" value="13.857443507287227" />
-      <entry key="S5" value="27.992085928852333" />
-      <entry key="S10" value="45.58086110848937" />
-      <entry key="S30" value="87.66978165406262" />
-      <entry key="S60" value="129.95456601614222" />
-      <entry key="M2" value="197.5763016296163" />
-      <entry key="M5" value="338.33535912108476" />
-      <entry key="M10" value="453.94767405771495" />
-      <entry key="M15" value="510.1122053824875" />
-      <entry key="M30" value="579.241073036699" />
-      <entry key="H1" value="619.7716166997512" />
-      <entry key="H2" value="641.7606180970874" />
-      <entry key="H4" value="653.2189752839582" />
-      <entry key="D1" value="663.0136466412155" />
-      <entry key="W1" value="664.7156698014822" />
+      <entry key="MS100" value="1.862261848251548" />
+      <entry key="MS500" value="3.650166702175715" />
+      <entry key="S2" value="4.586456705659913" />
+      <entry key="S5" value="4.827898245862751" />
+      <entry key="S10" value="5.0479805802043085" />
+      <entry key="S30" value="12.624751071520707" />
+      <entry key="S60" value="39.98933051649859" />
+      <entry key="M2" value="107.30848251756065" />
+      <entry key="M5" value="271.0244506309301" />
+      <entry key="M10" value="417.898572284541" />
+      <entry key="M15" value="492.67660284430775" />
+      <entry key="M30" value="587.4861666799553" />
+      <entry key="H1" value="644.4003564729502" />
+      <entry key="H2" value="675.6672422122858" />
+      <entry key="H4" value="692.0657072545328" />
+      <entry key="D1" value="706.139553865235" />
+      <entry key="W1" value="708.590421301506" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.512375107019965E-100" />
-      <entry key="S5" value="1.1885363361446638E-40" />
-      <entry key="S10" value="1.178925316802996E-20" />
-      <entry key="S30" value="3.189625205651198E-7" />
-      <entry key="S60" value="7.828451249260217E-4" />
-      <entry key="M2" value="0.03936375711732337" />
-      <entry key="M5" value="0.41505909402756586" />
-      <entry key="M10" value="0.9109166638775116" />
-      <entry key="M15" value="1.1838830337019524" />
-      <entry key="M30" value="1.5387187480123778" />
-      <entry key="H1" value="1.7542524134210662" />
-      <entry key="H2" value="1.873097588411517" />
-      <entry key="H4" value="1.9355083157687727" />
-      <entry key="D1" value="1.989103956702608" />
-      <entry key="W1" value="1.9984397731974948" />
+      <entry key="MS100" value="1.1232488146706844E-227" />
+      <entry key="MS500" value="4.074695820116018E-46" />
+      <entry key="S2" value="4.492869440003648E-12" />
+      <entry key="S5" value="2.8907432443954665E-5" />
+      <entry key="S10" value="0.005376563255831243" />
+      <entry key="S30" value="0.17518689145881097" />
+      <entry key="S60" value="0.41867766520542965" />
+      <entry key="M2" value="0.6626450413308919" />
+      <entry key="M5" value="1.1274129484481576" />
+      <entry key="M10" value="1.674422457662367" />
+      <entry key="M15" value="1.9908115716347448" />
+      <entry key="M30" value="2.418570867764596" />
+      <entry key="H1" value="2.686863979724007" />
+      <entry key="H2" value="2.8373658736623577" />
+      <entry key="H4" value="2.917104651646216" />
+      <entry key="D1" value="2.9859594547192185" />
+      <entry key="W1" value="2.9979886336225587" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6171422934309037" />
-      <entry key="MS500" value="4.67534220339778" />
-      <entry key="S2" value="13.812132068578885" />
-      <entry key="S5" value="27.956371350346508" />
-      <entry key="S10" value="45.552323649999806" />
-      <entry key="S30" value="87.65176754268347" />
-      <entry key="S60" value="129.94191696311395" />
-      <entry key="M2" value="197.6049725261004" />
-      <entry key="M5" value="338.74172114985123" />
-      <entry key="M10" value="454.85208196909775" />
-      <entry key="M15" value="511.2910095186076" />
-      <entry key="M30" value="580.7767850610456" />
-      <entry key="H1" value="621.524226340705" />
-      <entry key="H2" value="643.6328561680388" />
-      <entry key="H4" value="655.1540438661751" />
-      <entry key="D1" value="665.0026758844847" />
-      <entry key="W1" value="666.7140988659255" />
+      <entry key="MS100" value="1.7311206430434496" />
+      <entry key="MS500" value="3.6015285215970927" />
+      <entry key="S2" value="4.571432095859194" />
+      <entry key="S5" value="4.82161975208931" />
+      <entry key="S10" value="5.0498505338269615" />
+      <entry key="S30" value="12.79478495748676" />
+      <entry key="S60" value="40.4007835764132" />
+      <entry key="M2" value="107.96296125224075" />
+      <entry key="M5" value="272.14380495595657" />
+      <entry key="M10" value="419.5664638912922" />
+      <entry key="M15" value="494.6621549930086" />
+      <entry key="M30" value="589.9015144713567" />
+      <entry key="H1" value="647.0854266586141" />
+      <entry key="H2" value="678.503660564449" />
+      <entry key="H4" value="694.9823247971914" />
+      <entry key="D1" value="709.1254302194602" />
+      <entry key="W1" value="711.5883980158902" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -133,29 +104,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "opdracht2",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/cainbrouwer/Projecten MBO Utrecht/Leerjaar 2/Periode 1/Frontend-Development/opdracht_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "/home/cainbrouwer/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;opdracht2&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cainbrouwer/Projecten MBO Utrecht/Leerjaar 2/Periode 1/Frontend-Development/opdracht_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/cainbrouwer/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -173,7 +144,7 @@
       <workItem from="1791877361084" duration="139000" />
       <workItem from="1791879837776" duration="694000" />
       <workItem from="1791880893471" duration="199000" />
-      <workItem from="1791881527035" duration="1017000" />
+      <workItem from="1791881527035" duration="2784000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project with Vite Plus setup, TypeScript configuration, and basic components">
       <option name="closed" value="true" />
@@ -183,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791881041429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add configuration files for project setup; update package.json scripts and dependencies">
+      <option name="closed" value="true" />
+      <created>1791882712527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791882712527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project with Vite Plus setup, TypeScript configuration, and basic components" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize project with Vite Plus setup, TypeScript configuration, and basic components" />
+    <MESSAGE value="Add configuration files for project setup; update package.json scripts and dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add configuration files for project setup; update package.json scripts and dependencies" />
   </component>
 </project>
