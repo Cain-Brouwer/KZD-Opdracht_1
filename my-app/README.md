@@ -15,7 +15,7 @@ To recreate this project with the same configuration:
 
 ```sh
 # recreate this project
-npx sv@1.1.1 create --template minimal --types jsdoc --add tailwindcss="plugins:none" eslint prettier --install npm my-app
+npx sv@1.1.1 create --template minimal --types jsdoc --add prettier eslint tailwindcss="plugins:none" --install npm my-app
 ```
 
 ## Adding features

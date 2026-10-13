@@ -1,20 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AirChatToolWindow" selected="eza0kg1ezn6o921sxzdz7cwtw">
+    <tab path="4/junie/ba4fcd91/eza0kg1ezn6o921sxzdz7cwtw" version="20" tabKey="eza0kg1ezn6o921sxzdz7cwtw" projectHash="ba4fcd91" sessionWorkspaceId="$PROJECT_DIR$" projectDirectory="$PROJECT_DIR$" threadIdentity="junie:acp:30dd0050" launchTargetId="acp.v1.6163702e72656769737472792e6a756e6965" threadId="acp:30dd0050" threadTitle="Zoek documentatie voor SvelteKit en Vite Plus" threadActivity="PROCESSING">
+      <launchProfile name="Junie" agentId="junie" launchMode="DEFAULT" launchTargetId="acp.v1.6163702e72656769737472792e6a756e6965" interactionSurfaceId="native" modelId="v1:15:proxy:ingrazzio:junie-lite" modelDisplayName="Lite" reasoningEffort="LOW" sessionModeId="brave-auto" />
+    </tab>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39926297-7140-479b-94af-a4347fc7b34b" name="Changes" comment="initialize project with Vite Plus setup, TypeScript configuration, and basic components" />
+    <list default="true" id="39926297-7140-479b-94af-a4347fc7b34b" name="Changes" comment="initialize project with Vite Plus setup, TypeScript configuration, and basic components">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/prettier.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/app.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/assets/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/routes/+layout.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/routes/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/routes/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht_2" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="77" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/opdracht_2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -35,61 +67,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0883883820264808" />
-      <entry key="MS500" value="1.7139516452506798" />
-      <entry key="S2" value="5.9414716537547365" />
-      <entry key="S5" value="14.422112078526638" />
-      <entry key="S10" value="21.2987498342222" />
-      <entry key="S30" value="31.33451962504142" />
-      <entry key="S60" value="48.894025019991595" />
-      <entry key="M2" value="82.97525080503323" />
-      <entry key="M5" value="134.11328241930104" />
-      <entry key="M10" value="162.42203474442937" />
-      <entry key="M15" value="173.76497674222452" />
-      <entry key="M30" value="186.24656986810967" />
-      <entry key="H1" value="192.9553197631272" />
-      <entry key="H2" value="196.43448309591113" />
-      <entry key="H4" value="198.206295069244" />
-      <entry key="D1" value="199.69951571323912" />
-      <entry key="W1" value="199.9570359466497" />
+      <entry key="MS100" value="1.7141915907065992" />
+      <entry key="MS500" value="4.73407954049202" />
+      <entry key="S2" value="13.857443507287227" />
+      <entry key="S5" value="27.992085928852333" />
+      <entry key="S10" value="45.58086110848937" />
+      <entry key="S30" value="87.66978165406262" />
+      <entry key="S60" value="129.95456601614222" />
+      <entry key="M2" value="197.5763016296163" />
+      <entry key="M5" value="338.33535912108476" />
+      <entry key="M10" value="453.94767405771495" />
+      <entry key="M15" value="510.1122053824875" />
+      <entry key="M30" value="579.241073036699" />
+      <entry key="H1" value="619.7716166997512" />
+      <entry key="H2" value="641.7606180970874" />
+      <entry key="H4" value="653.2189752839582" />
+      <entry key="D1" value="663.0136466412155" />
+      <entry key="W1" value="664.7156698014822" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.6339812189883604E-78" />
-      <entry key="S2" value="3.575310198924157E-20" />
-      <entry key="S5" value="1.6767725147681736E-8" />
-      <entry key="S10" value="1.4002872533741415E-4" />
-      <entry key="S30" value="0.07277517667664549" />
-      <entry key="S60" value="0.37393632739781624" />
-      <entry key="M2" value="0.8603149045435281" />
-      <entry key="M5" value="1.4253919283448735" />
-      <entry key="M10" value="1.6880714609309486" />
-      <entry key="M15" value="1.7861458430075938" />
-      <entry key="M30" value="1.8900065339021475" />
-      <entry key="H1" value="1.9442142090747447" />
-      <entry key="H2" value="1.9719069595094414" />
-      <entry key="H4" value="1.9859030787667244" />
-      <entry key="D1" value="1.9976434818142674" />
-      <entry key="W1" value="1.999663181941443" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.512375107019965E-100" />
+      <entry key="S5" value="1.1885363361446638E-40" />
+      <entry key="S10" value="1.178925316802996E-20" />
+      <entry key="S30" value="3.189625205651198E-7" />
+      <entry key="S60" value="7.828451249260217E-4" />
+      <entry key="M2" value="0.03936375711732337" />
+      <entry key="M5" value="0.41505909402756586" />
+      <entry key="M10" value="0.9109166638775116" />
+      <entry key="M15" value="1.1838830337019524" />
+      <entry key="M30" value="1.5387187480123778" />
+      <entry key="H1" value="1.7542524134210662" />
+      <entry key="H2" value="1.873097588411517" />
+      <entry key="H4" value="1.9355083157687727" />
+      <entry key="D1" value="1.989103956702608" />
+      <entry key="W1" value="1.9984397731974948" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0225656451916734" />
-      <entry key="MS500" value="1.6928001219910285" />
-      <entry key="S2" value="5.923080481939766" />
-      <entry key="S5" value="14.403741177481756" />
-      <entry key="S10" value="21.285143785303664" />
-      <entry key="S30" value="31.39823508116743" />
-      <entry key="S60" value="49.25653278328071" />
-      <entry key="M2" value="83.82383179814826" />
-      <entry key="M5" value="135.53086400989173" />
-      <entry key="M10" value="164.10541319052967" />
-      <entry key="M15" value="175.54779049312668" />
-      <entry key="M30" value="188.13480041137822" />
-      <entry key="H1" value="194.89861682079712" />
-      <entry key="H2" value="198.40592397008018" />
-      <entry key="H4" value="200.19196319957163" />
-      <entry key="D1" value="201.69711976984567" />
-      <entry key="W1" value="201.95669348984447" />
+      <entry key="MS100" value="1.6171422934309037" />
+      <entry key="MS500" value="4.67534220339778" />
+      <entry key="S2" value="13.812132068578885" />
+      <entry key="S5" value="27.956371350346508" />
+      <entry key="S10" value="45.552323649999806" />
+      <entry key="S30" value="87.65176754268347" />
+      <entry key="S60" value="129.94191696311395" />
+      <entry key="M2" value="197.6049725261004" />
+      <entry key="M5" value="338.74172114985123" />
+      <entry key="M10" value="454.85208196909775" />
+      <entry key="M15" value="511.2910095186076" />
+      <entry key="M30" value="580.7767850610456" />
+      <entry key="H1" value="621.524226340705" />
+      <entry key="H2" value="643.6328561680388" />
+      <entry key="H4" value="655.1540438661751" />
+      <entry key="D1" value="665.0026758844847" />
+      <entry key="W1" value="666.7140988659255" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -110,7 +142,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Main",
+    "git-widget-placeholder": "opdracht2",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/cainbrouwer/Projecten MBO Utrecht/Leerjaar 2/Periode 1/Frontend-Development/opdracht_1",
@@ -141,6 +173,7 @@
       <workItem from="1791877361084" duration="139000" />
       <workItem from="1791879837776" duration="694000" />
       <workItem from="1791880893471" duration="199000" />
+      <workItem from="1791881527035" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="initialize project with Vite Plus setup, TypeScript configuration, and basic components">
       <option name="closed" value="true" />
