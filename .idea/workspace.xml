@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AirChatToolWindow" selected="6l10d2ep6xeofdw4zucaon85v">
+    <tab path="4/junie/ba4fcd90/6l10d2ep6xeofdw4zucaon85v" version="20" tabKey="6l10d2ep6xeofdw4zucaon85v" projectHash="ba4fcd90" sessionWorkspaceId="$PROJECT_DIR$" projectDirectory="$PROJECT_DIR$" threadIdentity="junie:acp:353aa382" launchTargetId="acp.v1.6163702e72656769737472792e6a756e6965" threadId="acp:353aa382" threadTitle="Verplaats deze opdracht naar de 'opdracht1' branch" threadActivity="PROCESSING">
+      <launchProfile name="Junie" agentId="junie" launchMode="DEFAULT" launchTargetId="acp.v1.6163702e72656769737472792e6a756e6965" interactionSurfaceId="native" modelId="v1:15:proxy:ingrazzio:junie-lite" modelDisplayName="Lite" reasoningEffort="LOW" sessionModeId="brave-auto" />
+    </tab>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d90b1abb-6e43-4181-bd88-8b29743d7190" name="Changes" comment="Remove temporary lock file for Checklists.docx; update Header.svelte for improved class formatting and add new wireframe files for various devices">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/opdracht_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.opencode/opencode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.opencode/svelte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/AGENTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/auth-schema.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/devbox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/drizzle.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/prettier.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/app.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/hooks.server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/content/OffersSection.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/content/ServicesSection.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/content/SliderSection.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/footer/Footer.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/header/Header.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/header/Logo.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/header/Navbar.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/hero/GetQuoteButton.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/hero/Hero.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/components/hero/Icons.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/navItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/server/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/server/db/auth.schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/server/db/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/server/db/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/vitest-examples/Welcome.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/vitest-examples/Welcome.svelte.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/vitest-examples/greet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/lib/vitest-examples/greet.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/routes/+layout.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/routes/+page.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/routes/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/Checklists_opdracht1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/.$homepage-wireframe.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/.$our-services.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/.$wat-we-bieden.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/wireframe opdracht 1 mobiel.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/wireframe opdracht 1 mobiel.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/wireframe opdracht 1 tablet.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/wireframe opdracht 1 tablet.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/wireframe opdracht 1.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/WireFrames/wireframe opdracht 1.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/bear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/cocktail-drink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/computer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/corporate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/horse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/static/wrench.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/cainbrouwer/Projecten MBO Utrecht/Leerjaar 2/Periode 1/Frontend-Development/opdracht_1" value="3JM8VWtKI4VbKrQ2KbRNXRGRpML" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="200" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Header" />
+        <option value="Hero" />
+        <option value="Footer" />
+        <option value="GetQuoteButton" />
+        <option value="Icons" />
+        <option value="Navbar" />
+        <option value="Logo" />
+        <option value="NavItems" />
+        <option value="BgImage" />
+        <option value="OffersSection" />
+        <option value="ServicesSection" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cain-Brouwer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Cain-Brouwer/KZD-Opdracht_1.git&quot;,
+    &quot;accountId&quot;: &quot;844d06c1-e541-48e9-9a4c-4d6335f21312&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.056531128797759" />
+      <entry key="MS500" value="3.1728546114568386" />
+      <entry key="S2" value="10.980969305157407" />
+      <entry key="S5" value="22.419616042921806" />
+      <entry key="S10" value="35.71217006632572" />
+      <entry key="S30" value="69.43122096769582" />
+      <entry key="S60" value="101.04685252008812" />
+      <entry key="M2" value="153.09931077078946" />
+      <entry key="M5" value="263.971583087134" />
+      <entry key="M10" value="381.3983787649848" />
+      <entry key="M15" value="485.962946508295" />
+      <entry key="M30" value="792.4587399483374" />
+      <entry key="H1" value="1276.444842426447" />
+      <entry key="H2" value="1823.5953091728177" />
+      <entry key="H4" value="2292.783438927235" />
+      <entry key="D1" value="4643.249048542322" />
+      <entry key="W1" value="7024.012091886103" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.5010706137533724E-167" />
+      <entry key="S2" value="1.96834073678358E-42" />
+      <entry key="S5" value="2.0779740144044962E-17" />
+      <entry key="S10" value="4.558480025627523E-9" />
+      <entry key="S30" value="0.0016580845989044172" />
+      <entry key="S60" value="0.040719584954962695" />
+      <entry key="M2" value="0.2017909440129162" />
+      <entry key="M5" value="0.5273421285447942" />
+      <entry key="M10" value="0.7390560545900227" />
+      <entry key="M15" value="0.8715528070552729" />
+      <entry key="M30" value="1.456949382804992" />
+      <entry key="H1" value="3.54809500682804" />
+      <entry key="H2" value="7.242473825188106" />
+      <entry key="H4" value="11.192303794356151" />
+      <entry key="D1" value="47.02684503541848" />
+      <entry key="W1" value="88.9898125686605" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9860255234282286" />
+      <entry key="MS500" value="3.1306840933041453" />
+      <entry key="S2" value="10.944216419980838" />
+      <entry key="S5" value="22.389051861992527" />
+      <entry key="S10" value="35.68752342603708" />
+      <entry key="S30" value="69.41662128834167" />
+      <entry key="S60" value="101.07447633674511" />
+      <entry key="M2" value="153.2883133337609" />
+      <entry key="M5" value="264.48733977257615" />
+      <entry key="M10" value="382.1284522891357" />
+      <entry key="M15" value="486.8266345586893" />
+      <entry key="M30" value="793.9071859130461" />
+      <entry key="H1" value="1279.9810115710686" />
+      <entry key="H2" value="1830.8252390783996" />
+      <entry key="H4" value="2303.9660641805663" />
+      <entry key="D1" value="4690.270696215067" />
+      <entry key="W1" value="7113.000601100814" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JM7LgmqpzVoV1GLmJh9VkeuGS4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/afs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.air.settings.ai.providers&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/cainbrouwer/Projecten MBO Utrecht/Leerjaar 2/Periode 1/Frontend-Development/opdracht_1/my-app/node_modules/typescript/lib&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-app/src/lib/components/footer" />
+      <recent name="$PROJECT_DIR$/my-app/src/lib/components/header" />
+      <recent name="$PROJECT_DIR$/my-app/src/lib/components/hero" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90b1abb-6e43-4181-bd88-8b29743d7190" name="Changes" comment="" />
+      <created>1789459028315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789459028315</updated>
+      <workItem from="1789459029369" duration="6861000" />
+      <workItem from="1789722450420" duration="2981000" />
+      <workItem from="1789733641461" duration="8000" />
+      <workItem from="1790062821909" duration="4000000" />
+      <workItem from="1790154685278" duration="203000" />
+      <workItem from="1790668060331" duration="7311000" />
+      <workItem from="1790761491165" duration="15000" />
+      <workItem from="1791270164173" duration="14680000" />
+      <workItem from="1791374159610" duration="6516000" />
+      <workItem from="1791456723977" duration="10000" />
+      <workItem from="1791791572713" duration="112000" />
+      <workItem from="1791791714061" duration="1601000" />
+      <workItem from="1791793885433" duration="658000" />
+      <workItem from="1791826975657" duration="12000" />
+      <workItem from="1791829818103" duration="620000" />
+      <workItem from="1791830625561" duration="841000" />
+      <workItem from="1791877292886" duration="66000" />
+      <workItem from="1791878291343" duration="1544000" />
+      <workItem from="1791880538534" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update layout and styles in page components; add devbox configuration">
+      <option name="closed" value="true" />
+      <created>1790670597857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790670597857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactor component imports to lowercase and enhance hero component opacity on scroll">
+      <option name="closed" value="true" />
+      <created>1790671538409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790671538409</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactor component imports to use PascalCase and add GetQuoteButton and Icons components">
+      <option name="closed" value="true" />
+      <created>1790672105302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790672105302</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix button hover text color in GetQuoteButton component">
+      <option name="closed" value="true" />
+      <created>1791270211515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791270211515</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update footer text and padding; align email address in hero component">
+      <option name="closed" value="true" />
+      <created>1791271842097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791271842097</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Enhance header component with scroll behavior; refactor layout and styling">
+      <option name="closed" value="true" />
+      <created>1791274567616</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791274567616</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactor navigation structure; introduce navItems for dynamic links in Footer and Navbar components">
+      <option name="closed" value="true" />
+      <created>1791276906921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791276906921</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refactor navigation structure; introduce navItems for dynamic links in Footer and Navbar components">
+      <option name="closed" value="true" />
+      <created>1791277212969</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791277212969</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add BgImage component; update layout in +page.svelte for improved background handling">
+      <option name="closed" value="true" />
+      <created>1791278569677</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791278569677</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add BgImage component; update layout in +page.svelte for improved background handling">
+      <option name="closed" value="true" />
+      <created>1791278987895</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791278987895</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Enhance OffersSection component; add content and layout for improved presentation of services">
+      <option name="closed" value="true" />
+      <created>1791370525463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1791370525463</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Enhance OffersSection component; add content and layout for improved presentation of services">
+      <option name="closed" value="true" />
+      <created>1791370906093</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1791370906093</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Refactor OffersSection component; improve layout and enhance offer presentation">
+      <option name="closed" value="true" />
+      <created>1791371589363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1791371589363</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add ServicesSection component; include content for service presentation in +page.svelte">
+      <option name="closed" value="true" />
+      <created>1791371980645</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791371980645</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Enhance ServicesSection component; improve layout and presentation of services">
+      <option name="closed" value="true" />
+      <created>1791374095028</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791374095028</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Rename BgImage component to SliderSection and update usage in +page.svelte">
+      <option name="closed" value="true" />
+      <created>1791374380086</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1791374380086</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update SliderSection component; change background image to money.png">
+      <option name="closed" value="true" />
+      <created>1791374732370</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1791374732370</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Implement slider functionality in SliderSection component; add navigation buttons and transition effects">
+      <option name="closed" value="true" />
+      <created>1791377585597</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791377585597</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Refactor SliderSection component; enhance slide navigation and improve layout with additional content">
+      <option name="closed" value="true" />
+      <created>1791382236143</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1791382236143</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update .gitignore; add Checklists.docx and temporary lock file to ignore list">
+      <option name="closed" value="true" />
+      <created>1791791649218</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1791791649218</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add temporary lock file for Checklists.docx to .gitignore">
+      <option name="closed" value="true" />
+      <created>1791792410471</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1791792410472</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Refactor layout and styling in multiple components; improve responsiveness and visual consistency">
+      <option name="closed" value="true" />
+      <created>1791794060208</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1791794060208</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Remove temporary lock file for Checklists.docx; update Header.svelte for improved class formatting and add new wireframe files for various devices">
+      <option name="closed" value="true" />
+      <created>1791879819777</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1791879819777</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update layout and styles in page components; add devbox configuration" />
+    <MESSAGE value="Refactor component imports to lowercase and enhance hero component opacity on scroll" />
+    <MESSAGE value="Refactor component imports to use PascalCase and add GetQuoteButton and Icons components" />
+    <MESSAGE value="Fix button hover text color in GetQuoteButton component" />
+    <MESSAGE value="Update footer text and padding; align email address in hero component" />
+    <MESSAGE value="Enhance header component with scroll behavior; refactor layout and styling" />
+    <MESSAGE value="Refactor navigation structure; introduce navItems for dynamic links in Footer and Navbar components" />
+    <MESSAGE value="Add BgImage component; update layout in +page.svelte for improved background handling" />
+    <MESSAGE value="Enhance OffersSection component; add content and layout for improved presentation of services" />
+    <MESSAGE value="Refactor OffersSection component; improve layout and enhance offer presentation" />
+    <MESSAGE value="Add ServicesSection component; include content for service presentation in +page.svelte" />
+    <MESSAGE value="Enhance ServicesSection component; improve layout and presentation of services" />
+    <MESSAGE value="Rename BgImage component to SliderSection and update usage in +page.svelte" />
+    <MESSAGE value="Update SliderSection component; change background image to money.png" />
+    <MESSAGE value="Implement slider functionality in SliderSection component; add navigation buttons and transition effects" />
+    <MESSAGE value="Refactor SliderSection component; enhance slide navigation and improve layout with additional content" />
+    <MESSAGE value="Update .gitignore; add Checklists.docx and temporary lock file to ignore list" />
+    <MESSAGE value="Add temporary lock file for Checklists.docx to .gitignore" />
+    <MESSAGE value="Refactor layout and styling in multiple components; improve responsiveness and visual consistency" />
+    <MESSAGE value="Remove temporary lock file for Checklists.docx; update Header.svelte for improved class formatting and add new wireframe files for various devices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove temporary lock file for Checklists.docx; update Header.svelte for improved class formatting and add new wireframe files for various devices" />
+  </component>
+</project>
