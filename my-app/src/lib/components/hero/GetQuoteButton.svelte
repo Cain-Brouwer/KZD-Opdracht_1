@@ -1,9 +1,0 @@
-<script>
-
-</script>
-
-<div class="col-span-1 flex items-center justify-end">
-    <button class="bg-blue-600 hover:text- text-white font-bold py-2 px-5 rounded-full sm:px-4 lg:px-4 lg:mr-10">
-        <a href="/quote" target="_blank" rel="noopener noreferrer">Get a Quote >></a>
-    </button>
-</div>
